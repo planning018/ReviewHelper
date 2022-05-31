@@ -24,7 +24,7 @@ const QUERY_KEYS = ['Name', 'Tags', 'Desc', 'CreateTime', 'URL'];
   };
 
   let sorts = [{
-    "property": "Created",
+    "property": "CreateTime",
     "direction": "descending"
   }]
 
